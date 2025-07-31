@@ -23,13 +23,13 @@ Given a dataset containing socio-economic and farming-related attributes of Indi
 ---
 ## 🔍 Exploratory Data Analysis (EDA)
 
-### 1. Distribution of Target Variable
-![Income Distribution](images/income_distribution.png)
+### 1. HEATMAP
+![HEATMAP](https://drive.google.com/uc?id=1mQxxVbUGjZhe-rX0MmHVlftBDZUAG3EP)
 
 ### 2. Boxplot by Region
-![Boxplot Region](images/income_by_region.png)
+![Boxplot Region](https://drive.google.com/uc?id=14lJQ41Ol_LUKsY-yBHU_ITi2O2Wtn7rO)
 
-### 3. Scatterplot: Land Holding vs Income
+### 3. Scatterplot:
 ![Scatterplot](https://drive.google.com/uc?id=1rXCZESDFbWUBkM95uMjeASukHfFbqNA_)
 
 ---
