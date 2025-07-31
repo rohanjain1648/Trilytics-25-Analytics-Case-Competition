@@ -30,7 +30,7 @@ Given a dataset containing socio-economic and farming-related attributes of Indi
 ![Boxplot Region](images/income_by_region.png)
 
 ### 3. Scatterplot: Land Holding vs Income
-![Scatterplot](https://drive.google.com/file/d/1rXCZESDFbWUBkM95uMjeASukHfFbqNA_/view?usp=sharing)
+![Scatterplot](https://drive.google.com/uc?id=1rXCZESDFbWUBkM95uMjeASukHfFbqNA_)
 
 ---
 
@@ -71,11 +71,10 @@ Given a dataset containing socio-economic and farming-related attributes of Indi
 ### 🔝 Best Models (Validation MAPE)
 
 | Model          | MAPE (%) |
-|----------------|----------|
-| XGBoost        | 11.1     |
+| XGBoost        | 7     |
 | LightGBM       | 10.7     |
-| CatBoost       | 11.3     |
-| 🥇 Ensemble     | **10.3** ✅ |
+| CatBoost       | 15.4     |
+
 
 ---
 
@@ -97,7 +96,7 @@ xgboost, lightgbm, catboost
 
 ydata-profiling
 
-
+---
 
 PRESENTATION (TeamName_presentation.pdf)
 
