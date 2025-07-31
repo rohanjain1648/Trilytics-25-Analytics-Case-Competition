@@ -26,7 +26,7 @@ Given a dataset containing socio-economic and farming-related attributes of Indi
 ### 1. HEATMAP
 ![HEATMAP](https://drive.google.com/uc?id=1mQxxVbUGjZhe-rX0MmHVlftBDZUAG3EP)
 
-### 2. Boxplot by Region
+### 2. Distribution Plots
 ![Boxplot Region](https://drive.google.com/uc?id=14lJQ41Ol_LUKsY-yBHU_ITi2O2Wtn7rO)
 
 ### 3. Scatterplot:
@@ -60,6 +60,11 @@ Given a dataset containing socio-economic and farming-related attributes of Indi
 | CatBoost             | No     | Fast, no encoding required          |
 | Voting Regressor     | Yes    | Combined top 3 models               |
 | Stacking Regressor   | Yes    | Linear meta-model on base learners  |
+
+---
+
+### 3. COMPARSIONS
+![MODEL COMPARISON](https://drive.google.com/uc?id=1qADqDsm8BN4GvoMZFWSVbkFqwdDjTC9k)
 
 ---
 
